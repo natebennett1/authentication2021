@@ -6,12 +6,16 @@
     "@material-ui/core": "4.11.3",
     "@material-ui/icons": "4.11.2",
     "axios": "^0.21.1",
+    "chart.js": "^2.9.4",
     "firebase": "^8.2.9",
     "immer": "^8.0.1",
+    "moment": "^2.29.1",
     "react": "^17.0.1",
+    "react-chartjs-2": "^2.11.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
+    "twilio": "^3.57.0",
     "typeface-roboto": "1.1.13"
   },
   "scripts": {
